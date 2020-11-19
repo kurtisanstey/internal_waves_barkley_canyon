@@ -12,5 +12,5 @@ GM contains code to locally calibrate the GM spectrum, and the data for plotting
 
 X_plots folders are for plotting output from the analysis notebooks, for their respective analysis type (spectro_plots for spectrograms, etc.).
 
-Archive folder contains outdated or no longer in use test-case notebooks, plots, and documents that are useful as a record, but do not contribute directly to the final thesis product.
+Archive folder contains outdated or no longer in use test-case notebooks, plots, and documents that are useful as a record, but are not regularly used for analysis.
 
