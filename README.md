@@ -6,8 +6,8 @@ xxx_pro Notebooks do the bulk of the data adjustments and processing necessary b
 
 plot_xxx Notebooks provide plotting tools for the indicated analysis types.
 
-'Documents' folder hosts working drafts of the record-keeping Schedule, Analysis, and Proposal documents, and other useful information. Also included are working drafts of each frequency band being analysed (thesis chapters?).
+'documents' folder hosts working drafts of the record-keeping Schedule, Analysis, and Proposal documents, and other useful information. Also included are working drafts of each frequency band being analysed (thesis chapters?).
 
 'plots' folder hosts plotting output from the analysis notebooks, for their respective analysis types.
 
-'Archive' folder contains outdated, supplemental, or no longer in use test-case notebooks, plots, and documents.
+'archive' folder contains outdated, supplemental, or no longer in use test-case notebooks, plots, and documents.
