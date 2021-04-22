@@ -2,7 +2,7 @@
 
 Ocean Physics MSc thesis at the University of Victoria, under the supervision of Dr. Jody Klymak. This research seeks to characterise the internal wave field at Barkley Canyon, off the coast of British Columbia, Canada. 
 
-xxx_pro Notebooks do the bulk of the data adjustments and processing necessary before plotting, for their respective analysis types.
+xxx_pro Notebooks do the bulk of the data adjustment and processing necessary before plotting, for their respective analysis types.
 
 plot_xxx Notebooks provide plotting tools for the indicated analysis types.
 
