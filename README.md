@@ -6,7 +6,7 @@ Ocean Physics MSc thesis at the University of Victoria, under the supervision of
 
 'plots' folder hosts plotting output from the analysis notebooks, for their respective analysis types.
 
-'archive' folder contains supplemental, outdated, or no longer in use test-case notebooks, plots, and documents.
+'archive' folder contains supplemental notebooks, plots, and documents.
 
 xxx_pro notebooks do the bulk of the data adjustment and processing necessary before plotting. adj_pro does most of the initial data adjustments. spectra_pro outputs time-depth-frequency matrices of PSD and rotary spectrograms, for use in various spectral analysis types.
 
