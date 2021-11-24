@@ -1,6 +1,6 @@
 # Internal waves in Barkley Canyon
 
-Ocean Physics MSc thesis at the University of Victoria, under the supervision of Dr. Jody Klymak. This research seeks to characterise the internal wave field at Barkley Canyon, off the coast of British Columbia, Canada. 
+Ocean Physics MSc thesis at the University of Victoria, under the supervision of Dr. Jody Klymak. This research characterises the internal wave field at Barkley Canyon, off the coast of British Columbia, Canada. 
 
 'documents' folder hosts working drafts of important documents, such as the [Thesis Draft](https://github.com/kurtisanstey/project/blob/master/documents/Anstey_Thesis_Rough.pdf) and [Meeting Notes](https://github.com/kurtisanstey/project/blob/master/documents/Anstey_Thesis_Schedule.pdf).
 
